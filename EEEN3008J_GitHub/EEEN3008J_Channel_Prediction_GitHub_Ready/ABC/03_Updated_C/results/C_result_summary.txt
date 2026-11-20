@@ -1,0 +1,11 @@
+UNCHANGED B MODEL / B CSV — C results only
+B model max prediction discrepancy: 3.55e-15
+C calibration: rho=0.95, 8 independently generated traces; window=16, hold=12, q=0.99
+Threshold MSE: 0.81014503 dB^2
+Fallback active time fraction: 0.983984; trigger events: 82
+                             rmse_db
+method                              
+Last-value                  1.794563
+B fixed linear (unaltered)  1.731875
+C residual fallback         1.793882
+Do not claim packet goodput: D has not supplied shared rate table.

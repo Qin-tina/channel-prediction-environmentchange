@@ -1,0 +1,4 @@
+MODEL: 10 ms saturated slots; 1250-byte payload; rates [1,2,4,6,8] Mbps; required SNR [0,5,10,15,20] dB; deterministic hard-threshold packet success; no PHY/MAC overhead or retries.
+All rates and thresholds are illustrative, not standards-derived. B original test has one trace: NO 95% CI. A generator test A/B are separate diagnostic domain, NOT comparable as matched before/after of B original.
+Packet goodput counts payload bits successfully delivered divided by total slot duration.
+C performance-aware fallback is identical to B fixed linear on B original, because it never activates.

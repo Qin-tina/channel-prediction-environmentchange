@@ -1,0 +1,7 @@
+# Current runnable workflow (use a fresh environment)
+numpy
+pandas
+matplotlib
+scipy
+joblib
+scikit-learn
