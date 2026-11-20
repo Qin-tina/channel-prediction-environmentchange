@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35139937/README.md)
 # Channel Prediction under Environment Change
 
 EEEN3008J Wireless Communications — group simulation project.

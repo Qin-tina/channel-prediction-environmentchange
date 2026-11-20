@@ -1,0 +1,421 @@
+scenario,seed,method,rmse_db,fallback_share,trigger_events,samples
+B_original_environment_B,,Last-value,1.7945632707718506,,,999
+B_original_environment_B,,B fixed linear,1.7318747170186177,,,999
+B_original_environment_B,,C basic fallback,1.7938823435812248,0.983983983983984,82.0,999
+B_original_environment_B,,C performance-aware fallback,1.7318747170186177,0.0,0.0,999
+A_original_test_A_diagnostic,test_A_000,Last-value,1.245312011629727,,,1495
+A_original_test_A_diagnostic,test_A_000,B fixed linear,1.2455120222870688,,,1495
+A_original_test_A_diagnostic,test_A_000,C basic fallback,1.2448351656981604,0.9692307692307692,121.0,1495
+A_original_test_A_diagnostic,test_A_000,C performance-aware fallback,1.2343323435778215,0.2234113712374582,42.0,1495
+A_original_test_A_diagnostic,test_A_001,Last-value,1.2419227656315701,,,1495
+A_original_test_A_diagnostic,test_A_001,B fixed linear,1.223648652154434,,,1495
+A_original_test_A_diagnostic,test_A_001,C basic fallback,1.241680021758646,0.9658862876254181,121.0,1495
+A_original_test_A_diagnostic,test_A_001,C performance-aware fallback,1.229163936220517,0.1665551839464883,53.0,1495
+A_original_test_A_diagnostic,test_A_002,Last-value,1.2744701695056893,,,1495
+A_original_test_A_diagnostic,test_A_002,B fixed linear,1.2672799588593031,,,1495
+A_original_test_A_diagnostic,test_A_002,C basic fallback,1.2739660084308044,0.974581939799331,122.0,1495
+A_original_test_A_diagnostic,test_A_002,C performance-aware fallback,1.2602060500217462,0.23010033444816053,49.0,1495
+A_original_test_A_diagnostic,test_A_003,Last-value,1.2958253503878296,,,1495
+A_original_test_A_diagnostic,test_A_003,B fixed linear,1.2792514538793154,,,1495
+A_original_test_A_diagnostic,test_A_003,C basic fallback,1.2945265310151024,0.974581939799331,122.0,1495
+A_original_test_A_diagnostic,test_A_003,C performance-aware fallback,1.2813570610320715,0.1919732441471572,51.0,1495
+A_original_test_A_diagnostic,test_A_004,Last-value,1.2593160695396908,,,1495
+A_original_test_A_diagnostic,test_A_004,B fixed linear,1.2458731976949147,,,1495
+A_original_test_A_diagnostic,test_A_004,C basic fallback,1.2597936380186403,0.9605351170568562,120.0,1495
+A_original_test_A_diagnostic,test_A_004,C performance-aware fallback,1.2439827062988136,0.19331103678929765,39.0,1495
+A_original_test_A_diagnostic,test_A_005,Last-value,1.3080200880081267,,,1495
+A_original_test_A_diagnostic,test_A_005,B fixed linear,1.2898388629253186,,,1495
+A_original_test_A_diagnostic,test_A_005,C basic fallback,1.3092573733036714,0.9765886287625418,122.0,1495
+A_original_test_A_diagnostic,test_A_005,C performance-aware fallback,1.3004289817108643,0.20735785953177258,58.0,1495
+A_original_test_A_diagnostic,test_A_006,Last-value,1.2695981841611053,,,1495
+A_original_test_A_diagnostic,test_A_006,B fixed linear,1.252380297645236,,,1495
+A_original_test_A_diagnostic,test_A_006,C basic fallback,1.269513356027669,0.979933110367893,123.0,1495
+A_original_test_A_diagnostic,test_A_006,C performance-aware fallback,1.2547313293048212,0.20869565217391303,48.0,1495
+A_original_test_A_diagnostic,test_A_007,Last-value,1.2618060603718806,,,1495
+A_original_test_A_diagnostic,test_A_007,B fixed linear,1.2691300260441292,,,1495
+A_original_test_A_diagnostic,test_A_007,C basic fallback,1.2608794100928564,0.9785953177257525,122.0,1495
+A_original_test_A_diagnostic,test_A_007,C performance-aware fallback,1.2568943562167059,0.24816053511705685,45.0,1495
+A_original_test_A_diagnostic,test_A_008,Last-value,1.293069355826367,,,1495
+A_original_test_A_diagnostic,test_A_008,B fixed linear,1.2919857670734323,,,1495
+A_original_test_A_diagnostic,test_A_008,C basic fallback,1.2935627242577143,0.9692307692307692,121.0,1495
+A_original_test_A_diagnostic,test_A_008,C performance-aware fallback,1.2917663145506153,0.262876254180602,56.0,1495
+A_original_test_A_diagnostic,test_A_009,Last-value,1.3149466010092852,,,1495
+A_original_test_A_diagnostic,test_A_009,B fixed linear,1.3018292856207951,,,1495
+A_original_test_A_diagnostic,test_A_009,C basic fallback,1.312490024450859,0.9806020066889632,123.0,1495
+A_original_test_A_diagnostic,test_A_009,C performance-aware fallback,1.2991832402414438,0.18461538461538463,46.0,1495
+A_original_test_A_diagnostic,test_A_010,Last-value,1.2768036479926943,,,1495
+A_original_test_A_diagnostic,test_A_010,B fixed linear,1.2611880636576793,,,1495
+A_original_test_A_diagnostic,test_A_010,C basic fallback,1.2756760768625717,0.959866220735786,120.0,1495
+A_original_test_A_diagnostic,test_A_010,C performance-aware fallback,1.268384945184272,0.2080267558528428,55.0,1495
+A_original_test_A_diagnostic,test_A_011,Last-value,1.3040935662019166,,,1495
+A_original_test_A_diagnostic,test_A_011,B fixed linear,1.2915456349944052,,,1495
+A_original_test_A_diagnostic,test_A_011,C basic fallback,1.3049134617579903,0.9678929765886287,121.0,1495
+A_original_test_A_diagnostic,test_A_011,C performance-aware fallback,1.2955335165983375,0.20869565217391303,47.0,1495
+A_original_test_B_diagnostic,test_B_000,Last-value,3.428528052667708,,,1495
+A_original_test_B_diagnostic,test_B_000,B fixed linear,3.3093869294770624,,,1495
+A_original_test_B_diagnostic,test_B_000,C basic fallback,3.42724982705067,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_000,C performance-aware fallback,3.3098970335425966,0.006020066889632107,2.0,1495
+A_original_test_B_diagnostic,test_B_001,Last-value,3.4729376250894823,,,1495
+A_original_test_B_diagnostic,test_B_001,B fixed linear,3.350887499099879,,,1495
+A_original_test_B_diagnostic,test_B_001,C basic fallback,3.47099949011429,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_001,C performance-aware fallback,3.351807512297471,0.0006688963210702341,1.0,1495
+A_original_test_B_diagnostic,test_B_002,Last-value,3.3133486959032905,,,1495
+A_original_test_B_diagnostic,test_B_002,B fixed linear,3.1996987728280253,,,1495
+A_original_test_B_diagnostic,test_B_002,C basic fallback,3.3119830294555257,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_002,C performance-aware fallback,3.1996987728280253,0.0,0.0,1495
+A_original_test_B_diagnostic,test_B_003,Last-value,3.2931752193324355,,,1495
+A_original_test_B_diagnostic,test_B_003,B fixed linear,3.1790542346947315,,,1495
+A_original_test_B_diagnostic,test_B_003,C basic fallback,3.2923490904600707,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_003,C performance-aware fallback,3.1790542346947315,0.0,0.0,1495
+A_original_test_B_diagnostic,test_B_004,Last-value,3.409256003636952,,,1495
+A_original_test_B_diagnostic,test_B_004,B fixed linear,3.296844133638089,,,1495
+A_original_test_B_diagnostic,test_B_004,C basic fallback,3.408089733386896,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_004,C performance-aware fallback,3.300178610993683,0.0026755852842809363,4.0,1495
+A_original_test_B_diagnostic,test_B_005,Last-value,3.3503638988864237,,,1495
+A_original_test_B_diagnostic,test_B_005,B fixed linear,3.234517473999044,,,1495
+A_original_test_B_diagnostic,test_B_005,C basic fallback,3.3490008106657676,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_005,C performance-aware fallback,3.2351464875091014,0.0006688963210702341,1.0,1495
+A_original_test_B_diagnostic,test_B_006,Last-value,3.403180856832274,,,1495
+A_original_test_B_diagnostic,test_B_006,B fixed linear,3.287415760281019,,,1495
+A_original_test_B_diagnostic,test_B_006,C basic fallback,3.4031404544035393,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_006,C performance-aware fallback,3.291271646371418,0.002006688963210702,3.0,1495
+A_original_test_B_diagnostic,test_B_007,Last-value,3.427084285486245,,,1495
+A_original_test_B_diagnostic,test_B_007,B fixed linear,3.312426673589732,,,1495
+A_original_test_B_diagnostic,test_B_007,C basic fallback,3.42653756510101,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_007,C performance-aware fallback,3.3126515052078958,0.0013377926421404682,1.0,1495
+A_original_test_B_diagnostic,test_B_008,Last-value,3.4319755996254564,,,1495
+A_original_test_B_diagnostic,test_B_008,B fixed linear,3.313097885991092,,,1495
+A_original_test_B_diagnostic,test_B_008,C basic fallback,3.4319817048554317,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_008,C performance-aware fallback,3.313097885991092,0.0,0.0,1495
+A_original_test_B_diagnostic,test_B_009,Last-value,3.3920781346035938,,,1495
+A_original_test_B_diagnostic,test_B_009,B fixed linear,3.2780843280570116,,,1495
+A_original_test_B_diagnostic,test_B_009,C basic fallback,3.3902727602418383,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_009,C performance-aware fallback,3.279832974446983,0.004013377926421404,3.0,1495
+A_original_test_B_diagnostic,test_B_010,Last-value,3.4476452275791245,,,1495
+A_original_test_B_diagnostic,test_B_010,B fixed linear,3.327460446338543,,,1495
+A_original_test_B_diagnostic,test_B_010,C basic fallback,3.445476959547491,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_010,C performance-aware fallback,3.329415229388545,0.002006688963210702,1.0,1495
+A_original_test_B_diagnostic,test_B_011,Last-value,3.327114605425569,,,1495
+A_original_test_B_diagnostic,test_B_011,B fixed linear,3.2141465668128917,,,1495
+A_original_test_B_diagnostic,test_B_011,C basic fallback,3.3258123491348806,0.9892976588628762,124.0,1495
+A_original_test_B_diagnostic,test_B_011,C performance-aware fallback,3.2141465668128917,0.0,0.0,1495
+C_supplemental_rho_0.95_sigma_2.0,0,Last-value,0.6105882898236027,,,999
+C_supplemental_rho_0.95_sigma_2.0,0,B fixed linear,0.6168142376391356,,,999
+C_supplemental_rho_0.95_sigma_2.0,0,C basic fallback,0.6142162208168191,0.012012012012012012,1.0,999
+C_supplemental_rho_0.95_sigma_2.0,0,C performance-aware fallback,0.6147008300454354,0.009009009009009009,2.0,999
+C_supplemental_rho_0.95_sigma_3.5,0,Last-value,1.0977879462331068,,,999
+C_supplemental_rho_0.95_sigma_3.5,0,B fixed linear,1.0769180388854795,,,999
+C_supplemental_rho_0.95_sigma_3.5,0,C basic fallback,1.0977995168949957,0.8928928928928929,75.0,999
+C_supplemental_rho_0.95_sigma_3.5,0,C performance-aware fallback,1.081374795609599,0.09509509509509509,24.0,999
+C_supplemental_rho_0.95_sigma_2.0,1,Last-value,0.6364049013141848,,,999
+C_supplemental_rho_0.95_sigma_2.0,1,B fixed linear,0.6327439903405403,,,999
+C_supplemental_rho_0.95_sigma_2.0,1,C basic fallback,0.6310157474561177,0.024024024024024024,2.0,999
+C_supplemental_rho_0.95_sigma_2.0,1,C performance-aware fallback,0.6326903637964293,0.001001001001001001,1.0,999
+C_supplemental_rho_0.95_sigma_3.5,1,Last-value,1.131351819320245,,,999
+C_supplemental_rho_0.95_sigma_3.5,1,B fixed linear,1.1228446531366658,,,999
+C_supplemental_rho_0.95_sigma_3.5,1,C basic fallback,1.1290344055424797,0.938938938938939,79.0,999
+C_supplemental_rho_0.95_sigma_3.5,1,C performance-aware fallback,1.1167113150134806,0.12512512512512514,15.0,999
+C_supplemental_rho_0.95_sigma_2.0,2,Last-value,0.6471216745493958,,,999
+C_supplemental_rho_0.95_sigma_2.0,2,B fixed linear,0.6363527345502078,,,999
+C_supplemental_rho_0.95_sigma_2.0,2,C basic fallback,0.6364599614355632,0.012012012012012012,1.0,999
+C_supplemental_rho_0.95_sigma_2.0,2,C performance-aware fallback,0.6363527345502078,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_3.5,2,Last-value,1.059628400083673,,,999
+C_supplemental_rho_0.95_sigma_3.5,2,B fixed linear,1.0549960616420095,,,999
+C_supplemental_rho_0.95_sigma_3.5,2,C basic fallback,1.0583125728583147,0.8978978978978979,75.0,999
+C_supplemental_rho_0.95_sigma_3.5,2,C performance-aware fallback,1.0513118562683086,0.17317317317317318,28.0,999
+C_supplemental_rho_0.95_sigma_2.0,3,Last-value,0.6166381040504816,,,999
+C_supplemental_rho_0.95_sigma_2.0,3,B fixed linear,0.6098642820700342,,,999
+C_supplemental_rho_0.95_sigma_2.0,3,C basic fallback,0.6098642820700342,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_2.0,3,C performance-aware fallback,0.6098642820700342,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_3.5,3,Last-value,1.1020375896858652,,,999
+C_supplemental_rho_0.95_sigma_3.5,3,B fixed linear,1.09601949852642,,,999
+C_supplemental_rho_0.95_sigma_3.5,3,C basic fallback,1.1012464510268598,0.9059059059059059,76.0,999
+C_supplemental_rho_0.95_sigma_3.5,3,C performance-aware fallback,1.0993176787401349,0.16816816816816818,33.0,999
+C_supplemental_rho_0.95_sigma_2.0,4,Last-value,0.6484776925963605,,,999
+C_supplemental_rho_0.95_sigma_2.0,4,B fixed linear,0.6427972572347418,,,999
+C_supplemental_rho_0.95_sigma_2.0,4,C basic fallback,0.6429013745647836,0.04804804804804805,4.0,999
+C_supplemental_rho_0.95_sigma_2.0,4,C performance-aware fallback,0.6429144860464185,0.011011011011011011,4.0,999
+C_supplemental_rho_0.95_sigma_3.5,4,Last-value,1.1126102844735963,,,999
+C_supplemental_rho_0.95_sigma_3.5,4,B fixed linear,1.0981403670367034,,,999
+C_supplemental_rho_0.95_sigma_3.5,4,C basic fallback,1.116872383972738,0.9069069069069069,76.0,999
+C_supplemental_rho_0.95_sigma_3.5,4,C performance-aware fallback,1.1045238942263738,0.1111111111111111,25.0,999
+C_supplemental_rho_0.95_sigma_2.0,5,Last-value,0.6313801975725132,,,999
+C_supplemental_rho_0.95_sigma_2.0,5,B fixed linear,0.6269924688897541,,,999
+C_supplemental_rho_0.95_sigma_2.0,5,C basic fallback,0.6269924688897541,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_2.0,5,C performance-aware fallback,0.6269924688897541,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_3.5,5,Last-value,1.0833806352455333,,,999
+C_supplemental_rho_0.95_sigma_3.5,5,B fixed linear,1.0738675428026656,,,999
+C_supplemental_rho_0.95_sigma_3.5,5,C basic fallback,1.0847827079780081,0.9159159159159159,77.0,999
+C_supplemental_rho_0.95_sigma_3.5,5,C performance-aware fallback,1.0833386217909908,0.17117117117117117,41.0,999
+C_supplemental_rho_0.95_sigma_2.0,6,Last-value,0.6134741559907371,,,999
+C_supplemental_rho_0.95_sigma_2.0,6,B fixed linear,0.6122572522692555,,,999
+C_supplemental_rho_0.95_sigma_2.0,6,C basic fallback,0.6122802249290463,0.012012012012012012,1.0,999
+C_supplemental_rho_0.95_sigma_2.0,6,C performance-aware fallback,0.6122572522692555,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_3.5,6,Last-value,1.0736879809234314,,,999
+C_supplemental_rho_0.95_sigma_3.5,6,B fixed linear,1.0655296548211672,,,999
+C_supplemental_rho_0.95_sigma_3.5,6,C basic fallback,1.0726476081386676,0.924924924924925,77.0,999
+C_supplemental_rho_0.95_sigma_3.5,6,C performance-aware fallback,1.0765767163883226,0.16116116116116116,42.0,999
+C_supplemental_rho_0.95_sigma_2.0,7,Last-value,0.6352712250266704,,,999
+C_supplemental_rho_0.95_sigma_2.0,7,B fixed linear,0.6231057680490871,,,999
+C_supplemental_rho_0.95_sigma_2.0,7,C basic fallback,0.6232354974321014,0.012012012012012012,1.0,999
+C_supplemental_rho_0.95_sigma_2.0,7,C performance-aware fallback,0.6231057680490871,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_3.5,7,Last-value,1.1264306646131166,,,999
+C_supplemental_rho_0.95_sigma_3.5,7,B fixed linear,1.1203980775765614,,,999
+C_supplemental_rho_0.95_sigma_3.5,7,C basic fallback,1.1268723877877338,0.8878878878878879,74.0,999
+C_supplemental_rho_0.95_sigma_3.5,7,C performance-aware fallback,1.1270186274141076,0.16116116116116116,41.0,999
+C_supplemental_rho_0.95_sigma_2.0,8,Last-value,0.6356188496020257,,,999
+C_supplemental_rho_0.95_sigma_2.0,8,B fixed linear,0.6289550362342438,,,999
+C_supplemental_rho_0.95_sigma_2.0,8,C basic fallback,0.6291695720962504,0.012012012012012012,1.0,999
+C_supplemental_rho_0.95_sigma_2.0,8,C performance-aware fallback,0.6289550362342438,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_3.5,8,Last-value,1.0856566763524282,,,999
+C_supplemental_rho_0.95_sigma_3.5,8,B fixed linear,1.0729120954568432,,,999
+C_supplemental_rho_0.95_sigma_3.5,8,C basic fallback,1.0843616440756532,0.9309309309309309,78.0,999
+C_supplemental_rho_0.95_sigma_3.5,8,C performance-aware fallback,1.0816261717565927,0.13813813813813813,35.0,999
+C_supplemental_rho_0.95_sigma_2.0,9,Last-value,0.666894498230505,,,999
+C_supplemental_rho_0.95_sigma_2.0,9,B fixed linear,0.6609032902537901,,,999
+C_supplemental_rho_0.95_sigma_2.0,9,C basic fallback,0.6621152822715741,0.06006006006006006,5.0,999
+C_supplemental_rho_0.95_sigma_2.0,9,C performance-aware fallback,0.6609032902537901,0.0,0.0,999
+C_supplemental_rho_0.95_sigma_3.5,9,Last-value,1.0865863539483234,,,999
+C_supplemental_rho_0.95_sigma_3.5,9,B fixed linear,1.0803762218932214,,,999
+C_supplemental_rho_0.95_sigma_3.5,9,C basic fallback,1.086933823625415,0.9229229229229229,77.0,999
+C_supplemental_rho_0.95_sigma_3.5,9,C performance-aware fallback,1.0868426202522605,0.1871871871871872,32.0,999
+C_supplemental_rho_0.80_sigma_2.0,0,Last-value,1.2149813615454645,,,999
+C_supplemental_rho_0.80_sigma_2.0,0,B fixed linear,1.1797750537620562,,,999
+C_supplemental_rho_0.80_sigma_2.0,0,C basic fallback,1.2136271294072534,0.9369369369369369,78.0,999
+C_supplemental_rho_0.80_sigma_2.0,0,C performance-aware fallback,1.183105929702225,0.02002002002002002,8.0,999
+C_supplemental_rho_0.80_sigma_3.5,0,Last-value,2.210545096525014,,,999
+C_supplemental_rho_0.80_sigma_3.5,0,B fixed linear,2.1377437727237276,,,999
+C_supplemental_rho_0.80_sigma_3.5,0,C basic fallback,2.2094818133870806,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,0,C performance-aware fallback,2.1404097419623116,0.007007007007007007,3.0,999
+C_supplemental_rho_0.80_sigma_2.0,1,Last-value,1.272142501897592,,,999
+C_supplemental_rho_0.80_sigma_2.0,1,B fixed linear,1.23262383943383,,,999
+C_supplemental_rho_0.80_sigma_2.0,1,C basic fallback,1.2704073369838722,0.960960960960961,80.0,999
+C_supplemental_rho_0.80_sigma_2.0,1,C performance-aware fallback,1.2327795745658727,0.002002002002002002,1.0,999
+C_supplemental_rho_0.80_sigma_3.5,1,Last-value,2.26196203358226,,,999
+C_supplemental_rho_0.80_sigma_3.5,1,B fixed linear,2.191403555106432,,,999
+C_supplemental_rho_0.80_sigma_3.5,1,C basic fallback,2.260541631603294,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,1,C performance-aware fallback,2.195904583873176,0.01901901901901902,8.0,999
+C_supplemental_rho_0.80_sigma_2.0,2,Last-value,1.297573553863138,,,999
+C_supplemental_rho_0.80_sigma_2.0,2,B fixed linear,1.2560608166552412,,,999
+C_supplemental_rho_0.80_sigma_2.0,2,C basic fallback,1.2963284143882603,0.970970970970971,81.0,999
+C_supplemental_rho_0.80_sigma_2.0,2,C performance-aware fallback,1.256558172010535,0.005005005005005005,1.0,999
+C_supplemental_rho_0.80_sigma_3.5,2,Last-value,2.12708441847503,,,999
+C_supplemental_rho_0.80_sigma_3.5,2,B fixed linear,2.060724210108174,,,999
+C_supplemental_rho_0.80_sigma_3.5,2,C basic fallback,2.1256976877784672,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,2,C performance-aware fallback,2.0647863661733945,0.009009009009009009,4.0,999
+C_supplemental_rho_0.80_sigma_2.0,3,Last-value,1.2281165142409285,,,999
+C_supplemental_rho_0.80_sigma_2.0,3,B fixed linear,1.190416229695351,,,999
+C_supplemental_rho_0.80_sigma_2.0,3,C basic fallback,1.2275270761286052,0.9519519519519519,80.0,999
+C_supplemental_rho_0.80_sigma_2.0,3,C performance-aware fallback,1.191496418198945,0.006006006006006006,3.0,999
+C_supplemental_rho_0.80_sigma_3.5,3,Last-value,2.1982632598099445,,,999
+C_supplemental_rho_0.80_sigma_3.5,3,B fixed linear,2.1306194090089345,,,999
+C_supplemental_rho_0.80_sigma_3.5,3,C basic fallback,2.1981878709197207,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,3,C performance-aware fallback,2.1356494351403583,0.016016016016016016,4.0,999
+C_supplemental_rho_0.80_sigma_2.0,4,Last-value,1.2963666630041824,,,999
+C_supplemental_rho_0.80_sigma_2.0,4,B fixed linear,1.2560021870709395,,,999
+C_supplemental_rho_0.80_sigma_2.0,4,C basic fallback,1.29396579734327,0.91991991991992,77.0,999
+C_supplemental_rho_0.80_sigma_2.0,4,C performance-aware fallback,1.2570036963378608,0.003003003003003003,3.0,999
+C_supplemental_rho_0.80_sigma_3.5,4,Last-value,2.2246162808673065,,,999
+C_supplemental_rho_0.80_sigma_3.5,4,B fixed linear,2.1542464992725407,,,999
+C_supplemental_rho_0.80_sigma_3.5,4,C basic fallback,2.223133206085277,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,4,C performance-aware fallback,2.15818768157021,0.01901901901901902,3.0,999
+C_supplemental_rho_0.80_sigma_2.0,5,Last-value,1.2652810978930227,,,999
+C_supplemental_rho_0.80_sigma_2.0,5,B fixed linear,1.22576519908677,,,999
+C_supplemental_rho_0.80_sigma_2.0,5,C basic fallback,1.2643490974085427,0.9529529529529529,80.0,999
+C_supplemental_rho_0.80_sigma_2.0,5,C performance-aware fallback,1.227492709338605,0.006006006006006006,2.0,999
+C_supplemental_rho_0.80_sigma_3.5,5,Last-value,2.1658770333158794,,,999
+C_supplemental_rho_0.80_sigma_3.5,5,B fixed linear,2.0989712480390703,,,999
+C_supplemental_rho_0.80_sigma_3.5,5,C basic fallback,2.1649161266506405,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,5,C performance-aware fallback,2.1013037013942872,0.003003003003003003,2.0,999
+C_supplemental_rho_0.80_sigma_2.0,6,Last-value,1.2259462396870386,,,999
+C_supplemental_rho_0.80_sigma_2.0,6,B fixed linear,1.1883894890188418,,,999
+C_supplemental_rho_0.80_sigma_2.0,6,C basic fallback,1.2247962595357713,0.950950950950951,80.0,999
+C_supplemental_rho_0.80_sigma_2.0,6,C performance-aware fallback,1.190425243947532,0.005005005005005005,4.0,999
+C_supplemental_rho_0.80_sigma_3.5,6,Last-value,2.1409912003762375,,,999
+C_supplemental_rho_0.80_sigma_3.5,6,B fixed linear,2.0751898130026207,,,999
+C_supplemental_rho_0.80_sigma_3.5,6,C basic fallback,2.1401779274836468,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,6,C performance-aware fallback,2.0781884919862144,0.008008008008008008,4.0,999
+C_supplemental_rho_0.80_sigma_2.0,7,Last-value,1.2752338773638106,,,999
+C_supplemental_rho_0.80_sigma_2.0,7,B fixed linear,1.2338896480087844,,,999
+C_supplemental_rho_0.80_sigma_2.0,7,C basic fallback,1.2742482034608202,0.9669669669669669,81.0,999
+C_supplemental_rho_0.80_sigma_2.0,7,C performance-aware fallback,1.2359706477264902,0.005005005005005005,3.0,999
+C_supplemental_rho_0.80_sigma_3.5,7,Last-value,2.251174634843879,,,999
+C_supplemental_rho_0.80_sigma_3.5,7,B fixed linear,2.18112451911666,,,999
+C_supplemental_rho_0.80_sigma_3.5,7,C basic fallback,2.250349800815375,0.978978978978979,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,7,C performance-aware fallback,2.1835155984425803,0.006006006006006006,4.0,999
+C_supplemental_rho_0.80_sigma_2.0,8,Last-value,1.2685722661253003,,,999
+C_supplemental_rho_0.80_sigma_2.0,8,B fixed linear,1.228991997999121,,,999
+C_supplemental_rho_0.80_sigma_2.0,8,C basic fallback,1.2679732299166684,0.950950950950951,80.0,999
+C_supplemental_rho_0.80_sigma_2.0,8,C performance-aware fallback,1.2314909326087238,0.007007007007007007,6.0,999
+C_supplemental_rho_0.80_sigma_3.5,8,Last-value,2.17844005300036,,,999
+C_supplemental_rho_0.80_sigma_3.5,8,B fixed linear,2.1086633348104855,,,999
+C_supplemental_rho_0.80_sigma_3.5,8,C basic fallback,2.177939032877727,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,8,C performance-aware fallback,2.1097096864278755,0.006006006006006006,3.0,999
+C_supplemental_rho_0.80_sigma_2.0,9,Last-value,1.3307367004818338,,,999
+C_supplemental_rho_0.80_sigma_2.0,9,B fixed linear,1.2897819225790428,,,999
+C_supplemental_rho_0.80_sigma_2.0,9,C basic fallback,1.330037520993163,0.960960960960961,80.0,999
+C_supplemental_rho_0.80_sigma_2.0,9,C performance-aware fallback,1.2928597158517166,0.005005005005005005,4.0,999
+C_supplemental_rho_0.80_sigma_3.5,9,Last-value,2.1729496167078524,,,999
+C_supplemental_rho_0.80_sigma_3.5,9,B fixed linear,2.1052797238297773,,,999
+C_supplemental_rho_0.80_sigma_3.5,9,C basic fallback,2.171572134852367,0.983983983983984,82.0,999
+C_supplemental_rho_0.80_sigma_3.5,9,C performance-aware fallback,2.1103050464393722,0.008008008008008008,6.0,999
+C_supplemental_rho_0.60_sigma_2.0,0,Last-value,1.7128424382023317,,,999
+C_supplemental_rho_0.60_sigma_2.0,0,B fixed linear,1.653845313301715,,,999
+C_supplemental_rho_0.60_sigma_2.0,0,C basic fallback,1.7119258460837325,0.982982982982983,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,0,C performance-aware fallback,1.653845313301715,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,0,Last-value,3.1366284234879123,,,999
+C_supplemental_rho_0.60_sigma_3.5,0,B fixed linear,3.024732879977123,,,999
+C_supplemental_rho_0.60_sigma_3.5,0,C basic fallback,3.1345818167999333,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,0,C performance-aware fallback,3.024732879977123,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,1,Last-value,1.7984918515473691,,,999
+C_supplemental_rho_0.60_sigma_2.0,1,B fixed linear,1.7353763177360957,,,999
+C_supplemental_rho_0.60_sigma_2.0,1,C basic fallback,1.7967000258786339,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,1,C performance-aware fallback,1.7353763177360957,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,1,Last-value,3.1899712237254807,,,999
+C_supplemental_rho_0.60_sigma_3.5,1,B fixed linear,3.078066650099033,,,999
+C_supplemental_rho_0.60_sigma_3.5,1,C basic fallback,3.1878753851634407,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,1,C performance-aware fallback,3.078066650099033,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,2,Last-value,1.8299512726566918,,,999
+C_supplemental_rho_0.60_sigma_2.0,2,B fixed linear,1.7655307647047715,,,999
+C_supplemental_rho_0.60_sigma_2.0,2,C basic fallback,1.829161968704425,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,2,C performance-aware fallback,1.7655307647047715,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,2,Last-value,3.028490099503278,,,999
+C_supplemental_rho_0.60_sigma_3.5,2,B fixed linear,2.9214219862620388,,,999
+C_supplemental_rho_0.60_sigma_3.5,2,C basic fallback,3.026377830803981,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,2,C performance-aware fallback,2.9214219862620388,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,3,Last-value,1.7226005853839312,,,999
+C_supplemental_rho_0.60_sigma_2.0,3,B fixed linear,1.6627777362730727,,,999
+C_supplemental_rho_0.60_sigma_2.0,3,C basic fallback,1.7221494269846986,0.977977977977978,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,3,C performance-aware fallback,1.6629333124338563,0.001001001001001001,1.0,999
+C_supplemental_rho_0.60_sigma_3.5,3,Last-value,3.1047849506782867,,,999
+C_supplemental_rho_0.60_sigma_3.5,3,B fixed linear,2.995998487341983,,,999
+C_supplemental_rho_0.60_sigma_3.5,3,C basic fallback,3.103818941173551,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,3,C performance-aware fallback,2.995998487341983,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,4,Last-value,1.8323874605000052,,,999
+C_supplemental_rho_0.60_sigma_2.0,4,B fixed linear,1.7680881191197042,,,999
+C_supplemental_rho_0.60_sigma_2.0,4,C basic fallback,1.8313331723385444,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,4,C performance-aware fallback,1.7680881191197042,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,4,Last-value,3.138575660870926,,,999
+C_supplemental_rho_0.60_sigma_3.5,4,B fixed linear,3.0280834853664653,,,999
+C_supplemental_rho_0.60_sigma_3.5,4,C basic fallback,3.135734460530924,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,4,C performance-aware fallback,3.0313661889400003,0.003003003003003003,3.0,999
+C_supplemental_rho_0.60_sigma_2.0,5,Last-value,1.7940999025992876,,,999
+C_supplemental_rho_0.60_sigma_2.0,5,B fixed linear,1.731010996885098,,,999
+C_supplemental_rho_0.60_sigma_2.0,5,C basic fallback,1.793842545065599,0.982982982982983,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,5,C performance-aware fallback,1.731010996885098,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,5,Last-value,3.069190791295857,,,999
+C_supplemental_rho_0.60_sigma_3.5,5,B fixed linear,2.9616750705357746,,,999
+C_supplemental_rho_0.60_sigma_3.5,5,C basic fallback,3.068204541028773,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,5,C performance-aware fallback,2.9616750705357746,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,6,Last-value,1.7365102667829762,,,999
+C_supplemental_rho_0.60_sigma_2.0,6,B fixed linear,1.6757026749987622,,,999
+C_supplemental_rho_0.60_sigma_2.0,6,C basic fallback,1.7356389563679764,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,6,C performance-aware fallback,1.6757026749987622,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,6,Last-value,3.0222514755255094,,,999
+C_supplemental_rho_0.60_sigma_3.5,6,B fixed linear,2.9165698537152402,,,999
+C_supplemental_rho_0.60_sigma_3.5,6,C basic fallback,3.0201484973511095,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,6,C performance-aware fallback,2.9165698537152402,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,7,Last-value,1.8059908325003582,,,999
+C_supplemental_rho_0.60_sigma_2.0,7,B fixed linear,1.742003005140374,,,999
+C_supplemental_rho_0.60_sigma_2.0,7,C basic fallback,1.805267202194755,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,7,C performance-aware fallback,1.742003005140374,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,7,Last-value,3.1828432818100145,,,999
+C_supplemental_rho_0.60_sigma_3.5,7,B fixed linear,3.070907194968229,,,999
+C_supplemental_rho_0.60_sigma_3.5,7,C basic fallback,3.1815644122446156,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,7,C performance-aware fallback,3.070907194968229,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,8,Last-value,1.7861611593165307,,,999
+C_supplemental_rho_0.60_sigma_2.0,8,B fixed linear,1.7236261730201052,,,999
+C_supplemental_rho_0.60_sigma_2.0,8,C basic fallback,1.7860397992307895,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,8,C performance-aware fallback,1.7236261730201052,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,8,Last-value,3.09261328918194,,,999
+C_supplemental_rho_0.60_sigma_3.5,8,B fixed linear,2.982863993974968,,,999
+C_supplemental_rho_0.60_sigma_3.5,8,C basic fallback,3.0917337956158564,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,8,C performance-aware fallback,2.982863993974968,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_2.0,9,Last-value,1.8813587492501427,,,999
+C_supplemental_rho_0.60_sigma_2.0,9,B fixed linear,1.8155739031823594,,,999
+C_supplemental_rho_0.60_sigma_2.0,9,C basic fallback,1.879724536392682,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_2.0,9,C performance-aware fallback,1.8155739031823594,0.0,0.0,999
+C_supplemental_rho_0.60_sigma_3.5,9,Last-value,3.0901051778071538,,,999
+C_supplemental_rho_0.60_sigma_3.5,9,B fixed linear,2.981029435211441,,,999
+C_supplemental_rho_0.60_sigma_3.5,9,C basic fallback,3.0880209325636847,0.983983983983984,82.0,999
+C_supplemental_rho_0.60_sigma_3.5,9,C performance-aware fallback,2.981029435211441,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,0,Last-value,2.089040566560362,,,999
+C_supplemental_rho_0.40_sigma_2.0,0,B fixed linear,2.0136842780659943,,,999
+C_supplemental_rho_0.40_sigma_2.0,0,C basic fallback,2.0880895230477368,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,0,C performance-aware fallback,2.0136842780659943,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,0,Last-value,3.8469932507986186,,,999
+C_supplemental_rho_0.40_sigma_3.5,0,B fixed linear,3.705826149988823,,,999
+C_supplemental_rho_0.40_sigma_3.5,0,C basic fallback,3.84413391320204,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,0,C performance-aware fallback,3.705826149988823,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,1,Last-value,2.2001790096828793,,,999
+C_supplemental_rho_0.40_sigma_2.0,1,B fixed linear,2.120080229777541,,,999
+C_supplemental_rho_0.40_sigma_2.0,1,C basic fallback,2.197904352485647,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,1,C performance-aware fallback,2.120080229777541,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,1,Last-value,3.891537962657008,,,999
+C_supplemental_rho_0.40_sigma_3.5,1,B fixed linear,3.7499059017472804,,,999
+C_supplemental_rho_0.40_sigma_3.5,1,C basic fallback,3.8888874260665576,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,1,C performance-aware fallback,3.7499059017472804,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,2,Last-value,2.235457595178744,,,999
+C_supplemental_rho_0.40_sigma_2.0,2,B fixed linear,2.1540157032246734,,,999
+C_supplemental_rho_0.40_sigma_2.0,2,C basic fallback,2.2343768447099066,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,2,C performance-aware fallback,2.1540157032246734,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,2,Last-value,3.7359584910053707,,,999
+C_supplemental_rho_0.40_sigma_3.5,2,B fixed linear,3.598997626925015,,,999
+C_supplemental_rho_0.40_sigma_3.5,2,C basic fallback,3.733272062774095,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,2,C performance-aware fallback,3.598997626925015,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,3,Last-value,2.094967604765074,,,999
+C_supplemental_rho_0.40_sigma_2.0,3,B fixed linear,2.019199658950682,,,999
+C_supplemental_rho_0.40_sigma_2.0,3,C basic fallback,2.093752215025461,0.980980980980981,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,3,C performance-aware fallback,2.019199658950682,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,3,Last-value,3.799824320541184,,,999
+C_supplemental_rho_0.40_sigma_3.5,3,B fixed linear,3.661443724609686,,,999
+C_supplemental_rho_0.40_sigma_3.5,3,C basic fallback,3.7983451454344825,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,3,C performance-aware fallback,3.661443724609686,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,4,Last-value,2.240180112413455,,,999
+C_supplemental_rho_0.40_sigma_2.0,4,B fixed linear,2.158636734338849,,,999
+C_supplemental_rho_0.40_sigma_2.0,4,C basic fallback,2.2389008072634433,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,4,C performance-aware fallback,2.158636734338849,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,4,Last-value,3.8353783934633303,,,999
+C_supplemental_rho_0.40_sigma_3.5,4,B fixed linear,3.6955402769552097,,,999
+C_supplemental_rho_0.40_sigma_3.5,4,C basic fallback,3.8315998828240416,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,4,C performance-aware fallback,3.697087581238151,0.001001001001001001,1.0,999
+C_supplemental_rho_0.40_sigma_2.0,5,Last-value,2.202273155476999,,,999
+C_supplemental_rho_0.40_sigma_2.0,5,B fixed linear,2.1219713110894127,,,999
+C_supplemental_rho_0.40_sigma_2.0,5,C basic fallback,2.2018185628840565,0.982982982982983,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,5,C performance-aware fallback,2.1219713110894127,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,5,Last-value,3.76928690176197,,,999
+C_supplemental_rho_0.40_sigma_3.5,5,B fixed linear,3.6320726688378593,,,999
+C_supplemental_rho_0.40_sigma_3.5,5,C basic fallback,3.7681457524479685,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,5,C performance-aware fallback,3.6320726688378593,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,6,Last-value,2.128505443008068,,,999
+C_supplemental_rho_0.40_sigma_2.0,6,B fixed linear,2.051041395717908,,,999
+C_supplemental_rho_0.40_sigma_2.0,6,C basic fallback,2.127390415666043,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,6,C performance-aware fallback,2.051041395717908,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,6,Last-value,3.693900835205735,,,999
+C_supplemental_rho_0.40_sigma_3.5,6,B fixed linear,3.559616770304337,,,999
+C_supplemental_rho_0.40_sigma_3.5,6,C basic fallback,3.6908586667473036,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,6,C performance-aware fallback,3.559616770304337,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,7,Last-value,2.2159814537334435,,,999
+C_supplemental_rho_0.40_sigma_2.0,7,B fixed linear,2.1349785473353333,,,999
+C_supplemental_rho_0.40_sigma_2.0,7,C basic fallback,2.2150536868795365,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,7,C performance-aware fallback,2.1349785473353333,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,7,Last-value,3.904534097816708,,,999
+C_supplemental_rho_0.40_sigma_3.5,7,B fixed linear,3.7619333415968796,,,999
+C_supplemental_rho_0.40_sigma_3.5,7,C basic fallback,3.902869499933448,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,7,C performance-aware fallback,3.7619333415968796,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,8,Last-value,2.172369884958173,,,999
+C_supplemental_rho_0.40_sigma_2.0,8,B fixed linear,2.0934753761260607,,,999
+C_supplemental_rho_0.40_sigma_2.0,8,C basic fallback,2.172028969039792,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,8,C performance-aware fallback,2.0934753761260607,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,8,Last-value,3.800622106470651,,,999
+C_supplemental_rho_0.40_sigma_3.5,8,B fixed linear,3.661329342478519,,,999
+C_supplemental_rho_0.40_sigma_3.5,8,C basic fallback,3.7995052728155763,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,8,C performance-aware fallback,3.661329342478519,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_2.0,9,Last-value,2.301995202879574,,,999
+C_supplemental_rho_0.40_sigma_2.0,9,B fixed linear,2.21832040598688,,,999
+C_supplemental_rho_0.40_sigma_2.0,9,C basic fallback,2.2998733628083876,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_2.0,9,C performance-aware fallback,2.21832040598688,0.0,0.0,999
+C_supplemental_rho_0.40_sigma_3.5,9,Last-value,3.8006289503122788,,,999
+C_supplemental_rho_0.40_sigma_3.5,9,B fixed linear,3.6616939734263747,,,999
+C_supplemental_rho_0.40_sigma_3.5,9,C basic fallback,3.7979825448993747,0.983983983983984,82.0,999
+C_supplemental_rho_0.40_sigma_3.5,9,C performance-aware fallback,3.6616939734263747,0.0,0.0,999

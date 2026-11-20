@@ -1,0 +1,5 @@
+dataset,environment,rho_configured,n_sequences,prediction_rows,mean_lag1_correlation
+train_A,A,0.96,24,35880,0.9552424811074
+val_A,A,0.96,8,11960,0.9574149669093228
+test_A,A,0.96,12,17940,0.9588688027290003
+test_B,B,0.65,12,17940,0.6542905201920406

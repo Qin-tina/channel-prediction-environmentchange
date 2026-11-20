@@ -1,0 +1,13 @@
+B ORIGINAL FILE / FROZEN MODEL: FOUR-WAY COMPARISON
+Original model prediction max absolute mismatch = 3.5527136788e-15
+C-only calibration threshold = 0.81014503 dB^2, quantile 0.99
+Window = 16, basic hold = 12, aware margin = 5%
+                               rmse_db  fallback_share  trigger_events
+method                                                                
+Last-value                    1.794563             NaN             NaN
+B fixed linear                1.731875             NaN             NaN
+C basic fallback              1.793882        0.983984            82.0
+C performance-aware fallback  1.731875        0.000000             0.0
+B original file is one trace: do not claim independent-run confidence intervals for this comparison.
+A tests are diagnostics ONLY; A/B have inconsistent parameters and should not be pooled.
+No packet goodput (Member D rate-selection table absent).
